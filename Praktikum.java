@@ -1,3 +1,4 @@
 public class Praktikum {
-    System.out.println("Hello World");
+    public static void main (String[] agrs) {
+    }
 }
